@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jmx/project/logger4cpp/CurrentThread.cc
+CurrentThread.hh
+/home/jmx/project/logger4cpp/CurrentThread.hh
+cxxabi.h
+-
+execinfo.h
+-
+stdlib.h
+-
+string
+-
+unistd.h
+-
+sys/syscall.h
+-
+
+/home/jmx/project/logger4cpp/CurrentThread.hh
+string
+-
+
+/home/jmx/project/logger4cpp/testTid.cc
+CurrentThread.hh
+/home/jmx/project/logger4cpp/CurrentThread.hh
+pthread.h
+-
+vector
+-
+iostream
+-
+string
+-
+

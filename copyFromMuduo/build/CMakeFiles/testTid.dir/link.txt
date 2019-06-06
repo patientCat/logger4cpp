@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/testTid.dir/testTid.cc.o CMakeFiles/testTid.dir/CurrentThread.cc.o  -o ../bin/testTid -lpthread 

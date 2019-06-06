@@ -1,0 +1,5 @@
+/home/jmx/project/logger4cpp/build/CMakeFiles/logger4cpp.dir
+/home/jmx/project/logger4cpp/build/CMakeFiles/testTid.dir
+/home/jmx/project/logger4cpp/build/CMakeFiles/rebuild_cache.dir
+/home/jmx/project/logger4cpp/build/CMakeFiles/edit_cache.dir
+/home/jmx/project/logger4cpp/build/CMakeFiles/testLog.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblogger4cpp.a  CMakeFiles/logger4cpp.dir/Logging.cc.o CMakeFiles/logger4cpp.dir/LogStream.cc.o CMakeFiles/logger4cpp.dir/Timestamp.cc.o CMakeFiles/logger4cpp.dir/CurrentThread.cc.o
+/usr/bin/ranlib liblogger4cpp.a
