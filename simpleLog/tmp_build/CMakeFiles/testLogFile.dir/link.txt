@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/testLogFile.dir/testLogFile.cc.o CMakeFiles/testLogFile.dir/SimpleLogger.cc.o CMakeFiles/testLogFile.dir/LogFile.cc.o CMakeFiles/testLogFile.dir/AsyncLogging.cc.o  -o ../bin/testLogFile -lmuduo_base -lpthread 

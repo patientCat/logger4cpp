@@ -1,0 +1,4 @@
+/home/jmx/project/logger4cpp/simpleLog/tmp_build/CMakeFiles/edit_cache.dir
+/home/jmx/project/logger4cpp/simpleLog/tmp_build/CMakeFiles/testAsyncLog.dir
+/home/jmx/project/logger4cpp/simpleLog/tmp_build/CMakeFiles/rebuild_cache.dir
+/home/jmx/project/logger4cpp/simpleLog/tmp_build/CMakeFiles/testLogFile.dir
